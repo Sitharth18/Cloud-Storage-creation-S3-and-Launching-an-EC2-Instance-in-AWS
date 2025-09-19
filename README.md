@@ -2,8 +2,8 @@
 ## Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
 
 ```
-Name         : NANDAVELAN SPS
-Register No. : 212223060182
+Name         : Sitharth.B.S
+Register No. : 212224110048
 ```
  ## Aim:
  
